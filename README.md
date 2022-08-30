@@ -1,3 +1,3 @@
 # mkn-sp-analysis
 
-This is a repository for mathematica analysis at SP MKN
+This is a repository for mathematical analysis at SP MKN
